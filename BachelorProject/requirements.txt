@@ -1,0 +1,4 @@
+tweepy
+selenium
+bs4
+joblib
